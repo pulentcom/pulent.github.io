@@ -2,7 +2,7 @@
 layout: post
 title: Democracy as creativity antidote in video meetings
 date: 2020-01-03 19:22
-summary: zoom video-meetings
+summary: Video meetings hell...
 categories: zoom video
 ---
 
