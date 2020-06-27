@@ -16,11 +16,11 @@ I had an opportunity to approach a potential new client in the name of a company
 
 I needed to understand the dynamics and all the peculiarities, including the strengths and weaknesses of both sides. I drafted a small to-do list:
 
-1. Discover everything about the product.
-2. Understand the current pricing strategy.
-3. Deconstruct current offer strategy.
-4. Find out what competition was doing.
-5. Identify the job-to-be-done for the client.
+1.  Discover everything about the product.
+2.  Understand the current pricing strategy.
+3.  Deconstruct current offer strategy.
+4.  Find out what competition was doing.
+5.  Identify the job-to-be-done for the client.
 
 Honestly, there is a shortcut. You could jump straight to number 5. and then work from there.
 
