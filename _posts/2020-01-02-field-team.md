@@ -8,6 +8,8 @@ categories: field sales team
 
 No matter how small your team is, it will generate valuable data. So even if you manage the sales for the first time, it is mostly just numbers. You can quickly crunch them, and you will have answers to drive you and your team toward solid and repeatable results.
 
+![](/assets/img/anastasia-dulgier-1155233-unsplash.jpg)
+
 ### Understanding the context
 Last two years, I was actively exploring alternative careers. Suddenly I was managing a small team of field representatives. **Selling real physical products was** a refresher but also **a massive challenge** as it involved real **people**, genuine **products** and **customers** spread all over the country. Everything was entirely new, plus I didn't have any previous experience on which I could base my self-confidence.
 
@@ -22,7 +24,7 @@ One of the first ideas was to sift through the existing data and try to automate
 
 ### Analysing sales with the help of Google Data Studio
 
-![](gds_picture.png)
+![](/assets/img/gds_picture.png)
 
 Data Studio from Google allows you to sift through **big data** and design pretty reports to inspire smarter business decisions. As it is the case with other Google products, it is simple, yet powerful. It shouldn't take much time to orient around and design the first report. Challenge is elsewhere, how to confidently analyse the data and be sure that your interpretation is correct.
 
@@ -35,17 +37,17 @@ For the first month or two, I have kept this under wraps to be sure that there a
 
 ### Finding where the sales team is spending their time
 
-![](repsly_pic.png)
+![](/assets/img/repsly_pic.png)
 
 Once we had reports on sales, we were still missing data on the visits and contacts in the field. Two solutions that were simple to use and both ticked many of the marks where [Badger Maps](https://www.badgermapping.com) and [Repsly](https://www.repsly.com/). After some investigation and testing, we selected Repsly. **Repsly made the switch easy with its simplicity and good user experience.** It was intuitive, and our sales reps used it almost instantly with no need for explanations. Having the data at any given moment easily reachable was also happily welcomed by sales. More importantly, it had a useful [API](http://developer.repsly.com/repsly-developers) (Application Programming Interface), which allowed me to export their visits for analysis.
 
 The prototype was hacked in 5 minutes using [Zapier](https://zapier.com/) (automation tool with integrations in 1500+ apps) as it allowed me to connect Sheets and Repsly with just a few clicks. It was an instant success. **For the first time, we managed to intersect sales with visits and measure the success of each visit.**
 
-![](repsly2_pic.png)
+![](/assets/img/repsly2_pic.png)
 
 To make things easier, I have explored the Repsly API and wrote a [Google Script](https://www.google.com/script/start/), which was set to pull the data on the visits daily. Numbers were fed, yet again, to our massive sheet and used within the same Data Studio report. An early version of the script is available on [Gitlab](https://gitlab.com/simplemonad/pullRepsly), but use it on your own risk as I sadly don't have enough time to support it. Copy the code to the Google Script and create triggers as it suits you. It is important to note that the API returns the last 50 records so you should create an adequate number of triggers. I have set the triggers to run around midnight when there are no activities. Real-time data wasn't mission critical in this case, so this worked more than well.
 
-![](gitlab_src_pull.jpg)
+![](/assets/img/gitlab_src_pull.jpg)
 
 ### Developing assessments criteria for fast decision making in the field
 Field sales representatives work mostly on a mobile device and manage multiple accounts while being the face of a company within a particular territory. For them, **time is critical**, as a limited resource it is tightly connected to the results. Optimising their daily routes choosing which location to visit and when makes a difference.
@@ -64,4 +66,4 @@ Real data on sales and visits from the field reps were a **catalyst in our digit
 5.  value of the offer is relative, and **you can maximise the financial outcome**
 6.  for a meaningful result **you need credible data**
 
-![Great visualisation of sales management done by pipedrive.com](sales_managers_live.png?classes=caption "Where great sales managers live, adapted from pipedrive.com")
+![Great visualisation of sales management done by pipedrive.com](/assets/img/sales_managers_live.png?classes=caption "Where great sales managers live, adapted from pipedrive.com")

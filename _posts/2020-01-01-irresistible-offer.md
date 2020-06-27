@@ -6,6 +6,8 @@ summary: Job to be done approach to offers
 categories: offers jbtd
 ---
 
+![](/assets/img/david-holifield-J-46sdLKbRY-unsplash.jpg)
+
 Humans are mostly not rational. We are born irrational and with time are trained to be sensible, to build our mental models preparing our selves for future challenges. We even considered offensive when someone calls us irrational. But despite this, I would argue that precisely this irrationality is making us interesting while creating negotiation opportunities.
 
 So why are we always creating offers with mathematical precision? Does it even make sense to invest time in designing an offer without spending at least the same amount of time in understanding our buyer?
@@ -26,9 +28,9 @@ Honestly, there is a shortcut. You could jump straight to number 5. and then wor
 
 > "A Job to be Done is the process a consumer goes through whenever she aims to change her existing life-situation into a preferred one, but cannot because there are constraints that stop her.", [jbtd.info](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
 
-![SAMUEL HULICK USES THIS ILLUSTRATION TO SHOW HOW CUSTOMERS USE PRODUCTS TO DESIGN A "NEW ME".](jobtobemario.jpeg?classes=caption "Samuel Hulick uses this illustration to show how customers use products to design a New Me.")
+![SAMUEL HULICK USES THIS ILLUSTRATION TO SHOW HOW CUSTOMERS USE PRODUCTS TO DESIGN A "NEW ME".](/assets/img/jobtobemario.jpeg?classes=caption "Samuel Hulick uses this illustration to show how customers use products to design a New Me.")
 
-As the father of the concept, Clayton Christensen writes:
+As the father of the concept, Clayton Christensen wrote:
 > Jobs are never simply about function—they have powerful social and emotional dimensions.
 
 Recognising those "exotic" dimensions in the forest of circumstances such as product attributes, new technologies or trends will provide you with ultimate leverage.

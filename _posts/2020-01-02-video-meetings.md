@@ -6,6 +6,8 @@ summary: zoom video-meetings
 categories: zoom video
 ---
 
+![](/assets/img/markus-spiske-D-QiXQgJxzA-unsplash.jpg)
+
 One great thing resulting from coronavirus situation is that now it is easier than ever to substitute real in-person meeting with virtual. But is it really the same or are we are losing something without even realising.
 
 Yesterday I was a part of two lengthy pan-European video meetings. They were quite different in terms of participants composition and objectives, but the same problem arose. Ultimately, democracy won over creativity.
