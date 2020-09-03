@@ -2,7 +2,7 @@
 layout: post
 title: Managing a small field sales team efficiently
 date: 2020-01-02 19:22
-summary: Using data and reporting to improve the sales results
+summary: Using data and reporting tools to boost sales.
 categories: field sales team
 ---
 

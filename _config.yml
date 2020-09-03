@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "https://pulent.com"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
+ - me.md
  - contact.html
 
 defaults:
@@ -15,7 +15,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
-      
+
 google_analytics: UA-102548855-1
 
 # Optional features
@@ -31,7 +31,7 @@ post_preview_image: false
 disqus_shortname:
 
 # Social icons
-github_username: pulentcom
+github_username:
 twitter_username: nibalic
 linkedin_username: nikola.balic
 

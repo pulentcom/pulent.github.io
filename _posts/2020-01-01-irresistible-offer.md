@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to tailor an irresistible offer
-date: 2020-01-01 19:22
-summary: Job to be done approach to offers
+date: 2020-05-11 13:22
+summary: Job to be done approach to offer creation.
 categories: offers jbtd
 ---
 

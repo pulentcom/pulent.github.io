@@ -10,6 +10,7 @@ abbr {
 p {
   color: #333;
   line-height: 1.5;
+  text-align: justify;
 }
 
 small,
@@ -22,3 +23,5 @@ sup {
   vertical-align: middle;
   top: -0.9ex;
 }
+
+.fab.fa-rss { font-family: "Font Awesome 5 Free"; font-weight: 900; }
