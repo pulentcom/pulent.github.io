@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Managing a small field sales team efficiently
+title: How to efficiently manage a small field sales team
 date: 2020-01-02 19:22
-summary: Using data and reporting tools to boost sales.
+summary: Using data and reporting tools to boost sales in a traditionaly oriented company.
 categories: field sales team
 ---
 
-No matter how small your team is, it will generate valuable data. So even if you manage the sales for the first time, it is mostly just numbers. You can quickly crunch them, and you will have answers to drive you and your team toward solid and repeatable results.
+No matter how small your team is, it will generate valuable data. So even if you manage the sales for the first time, you should firstly look for the numbers. You can quickly have answers to drive you and your team toward solid and repeatable results.
 
 ![](/assets/img/anastasia-dulgier-1155233-unsplash.jpg)
 
 ### Understanding the context
-Last two years, I was actively exploring alternative careers. Suddenly I was managing a small team of field representatives. **Selling real physical products was** a refresher but also **a massive challenge** as it involved real **people**, genuine **products** and **customers** spread all over the country. Everything was entirely new, plus I didn't have any previous experience on which I could base my self-confidence.
+At one point I was managing a small team of field representatives. **Selling real physical products was** a refresher but also **a massive challenge** as it involved real **people**, genuine **products** and **customers** spread all over the country. Everything was entirely new, plus I didn't have any previous experience on which I could base my self-confidence.
 
-Setup that I had inherited was almost non-existent; abandoned "MS Access"-like **CRM** database and a bunch of private notes from the reps with no real transferable value or supporting context. Sales reps did a daily report which with time turned into truly meaningless musings looking almost the same every day. Almost on the level _"She had a great shirt, next time I should ask where she bought it"_.
+Setup that I had inherited was almost non-existent; abandoned manually updated "MS Access" **CRM** database and a bunch of private notes from the reps with no real transferable value or supporting context. Sales reps did a daily report which with time turned into truly meaningless musings looking almost the same every day. On the level of _"She had a great shirt, next time I should ask where she bought it"_. As much as this can be useful to a good salesman, we were missing a lot of actionable insights.
 
 We had one weekly email report from the wholesalers as the only relevant sales record. **Everyone nervously waited for the Monday morning** to hear the aggregated number of sales for their territory, and that was it. More with fear did they managed to achieve the weekly target, which was arbitrarily set by the CEO. Targets were a problem in itself as they were fixed values and didn't take into account the growth of sales or any other fundamental specificity such as market size. Moreover, they didn't challenge the sales team to push further.
 
