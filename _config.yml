@@ -72,6 +72,11 @@ text:
     coming_soon: 'Coming soon...'
   og_locale: 'en_US'
 
+params:
+    has_subscribe: true
+    subscribe_title: Subscribe for new updates
+    subscribe_content: Subscribe to my email newsletter to receive useful articles and special updates.
+
 # Build settings
 markdown:     kramdown
 redcarpet:

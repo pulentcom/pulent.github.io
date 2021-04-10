@@ -1,0 +1,13 @@
+<section class="subscribe outer">
+  <div class="inner-sm">
+    {% if site.params.subscribe_title %}
+    <h2 class="subscribe-title">{{ site.params.subscribe_title }}</h2>
+    {% endif %}
+    {% if site.params.subscribe_content %}
+    <p class="subscribe-text">
+      {{ site.params.subscribe_content | safe }}
+    </p>
+    {% endif %}
+    {% include subscribe_form.html %}
+  </div><!-- inner-sm -->
+</section><!-- .subscribe -->
