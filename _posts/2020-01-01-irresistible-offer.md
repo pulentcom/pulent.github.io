@@ -3,9 +3,12 @@ layout: post
 title: How to tailor an irresistible offer
 date: 2020-05-11 13:22
 summary: Job to be done approach to offer creation.
-categories: offers jbtd
----
+categories:
+- jbtd
+- offers
+- sales
 
+---
 ![](/assets/img/david-holifield-J-46sdLKbRY-unsplash.jpg)
 
 Humans are mostly not rational. We are born irrational and with time are trained to be sensible, to build our mental models preparing our selves for future challenges. We even considered offensive when someone calls us irrational. But despite this, I would argue that precisely this irrationality is making us interesting while creating negotiation opportunities.
@@ -18,11 +21,11 @@ I had an opportunity to approach a potential new client in the name of a company
 
 I needed to understand the dynamics and all the peculiarities, including the strengths and weaknesses of both sides. I drafted a small to-do list:
 
-1.  Discover everything about the product.
-2.  Understand the current pricing strategy.
-3.  Deconstruct current offer strategy.
-4.  Find out what competition was doing.
-5.  Identify the job-to-be-done for the client.
+1. Discover everything about the product.
+2. Understand the current pricing strategy.
+3. Deconstruct current offer strategy.
+4. Find out what competition was doing.
+5. Identify the job-to-be-done for the client.
 
 Honestly, there is a shortcut. You could jump straight to number 5. and then work from there.
 
@@ -31,6 +34,7 @@ Honestly, there is a shortcut. You could jump straight to number 5. and then wor
 ![SAMUEL HULICK USES THIS ILLUSTRATION TO SHOW HOW CUSTOMERS USE PRODUCTS TO DESIGN A "NEW ME".](/assets/img/jobtobemario.jpeg?classes=caption "Samuel Hulick uses this illustration to show how customers use products to design a New Me.")
 
 As the father of the concept, Clayton Christensen wrote:
+
 > Jobs are never simply about function—they have powerful social and emotional dimensions.
 
 Recognising those "exotic" dimensions in the forest of circumstances such as product attributes, new technologies or trends will provide you with ultimate leverage.
