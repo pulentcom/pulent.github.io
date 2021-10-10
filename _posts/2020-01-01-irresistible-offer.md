@@ -2,7 +2,9 @@
 layout: post
 title: How to tailor an irresistible offer
 date: 2020-05-11 13:22
-summary: Job to be done approach to offer creation.
+summary: Creating a perfect offer is not always simply about function—understanding
+  your customers goes a long way helping you to optimise your offer for the benefit
+  of both sides.
 categories:
 - jbtd
 - offers
