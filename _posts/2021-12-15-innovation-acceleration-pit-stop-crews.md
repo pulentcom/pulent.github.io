@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Innovation acceleration pit stop crews
-date: 2021-12-14 8:00:00
+date: 2021-12-15 6:00
 summary: 'We need to do our best to increase statistical chances for innovation to
   reach customers. We need to maximise business opportunities. '
 categories:
