@@ -10,7 +10,7 @@ categories:
 - technology transfer
 
 ---
-![](/uploads/gustavo-campos-b87zmorezro-unsplash.jpg)
+![](/assets/img/gustavo-campos-b87zmorezro-unsplash.jpg)
 
 A decade in technology transfer in a transition country still leaves a lot to be desired, or all to be desired. The only change is that TT is no longer a buzzword which when used in your proposal or during a posh lunch would make you instantly uber-cool. Today we are all getting excited by digital transformation, green transitions and whatnot. Time has passed.
 
