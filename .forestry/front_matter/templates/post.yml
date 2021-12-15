@@ -12,6 +12,9 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: YY-MM-DD
+    time_format: h:mm
 - type: textarea
   name: summary
   label: summary
