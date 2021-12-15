@@ -2,13 +2,14 @@
 layout: post
 title: Antifragility of universities
 date: 2020-09-01 19:22
-summary: Antifragility is a challenging concept and it is sometimes hard to grasp but can be a useful mental model when thinking about the future of universities.
+summary: Antifragility is a challenging concept and it is sometimes hard to grasp
+  but can be a useful mental model when thinking about the future of universities.
 categories: antifragility universities europe
----
 
+---
 ![](/assets/img/nathan-dumlao-ewGMqs2tmJI-unsplash.jpg)
 
-As defined by Nassim Nicholas Taleb, antifragility is a property of a system to not only resist but to thrive in the extraordinary circumstances. To thrive in times of hardship. This concept is also connected to the black swan idea as he has coined it in his book of the same name. A black swan is an event that follows three criteria 1. unforeseen, unpredictable event, 2. of great importance, disturbance, 3. tends to be rationalized in hindsight.
+As defined by Nassim Nicholas Taleb, antifragility is a property of a system to not only resist but to thrive in extraordinary circumstances. To thrive in times of hardship. This concept is also connected to the black swan idea as he has coined it in his book of the same name. A black swan is an event that follows three criteria 1. unforeseen, unpredictable event, 2. of great importance, disturbance, 3. tends to be rationalized in hindsight.
 
 Applying and broadening these concepts in the ecosystem of universities and considering it both in local and networked surroundings should be a worthy investment.
 
@@ -30,6 +31,6 @@ Making the research more digitalized and remotized should provide redundancies a
 
 Involving society through the engagement of citizens and exposing them to both education and research with life long learning or citizen science, and the third mission with leading them towards more entrepreneurial activities could provide needed interaction which could be a basis for antifragility. The environment is a tough one, but strategically focusing research towards the benefiting environment should at least give as insights in the future.
 
-In 2 milion EUR Horizon 2020 project just selected for financing and lead by "European university of the seas" alliance, I have designed a work package to tackle the antifragility of universities. Right now I don't have any answers but we are planning to find them or at least to find and ask the right questions. The core activities are to start the antifragility think-tank to work on this in continuity, to explore opportunities for digitalization and remotization especially of research infrastructure, and to consider the environmental footprint of research practices while also working on a system for transferring soft skills between the researches and working on their development and increase of human capital.
+In 2 million EUR Horizon 2020 project just selected for financing and lead by "European university of the seas" alliance, I have designed a work package to tackle the antifragility of universities. Right now I don't have any answers but we are planning to find them or at least to find and ask the right questions. The core activities are to start the antifragility think-tank to work on this in continuity, to explore opportunities for digitalization and remotization especially of research infrastructure, and to consider the environmental footprint of research practices while also working on a system for transferring soft skills between the researches and working on their development and increase of human capital.
 
 Antifragility is a challenging concept and it is sometimes hard to grasp but can be a useful mental model when thinking about the future of universities. Even if we don't approach the antifragility ideal.
