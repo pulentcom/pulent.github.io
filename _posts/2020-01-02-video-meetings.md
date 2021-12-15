@@ -4,11 +4,11 @@ title: Democracy as creativity antidote in video meetings
 date: 2020-03-03 19:22
 summary: Hell is other people on Zoom.
 categories: zoom video
----
 
+---
 ![](/assets/img/markus-spiske-D-QiXQgJxzA-unsplash.jpg)
 
-One great thing resulting from COVID-19 situation is that now it is easier than ever to substitute real in-person meetings with virtual. Everyone, including their [goat](https://www.theguardian.com/technology/2020/may/21/animal-zoom-calls-coronavirus-lockdown), is on Zoom nowdays. But is it the same, or are we losing something without even realizing it.
+One great thing resulting from the COVID-19 situation is that now it is easier than ever to substitute real in-person meetings with virtual ones. Everyone, including their [goat](https://www.theguardian.com/technology/2020/may/21/animal-zoom-calls-coronavirus-lockdown), is on Zoom nowadays. But is it the same, or are we losing something without even realizing it?
 
 "Hell is other people" is a famous quote by Sartre from his play No Exit:
 
