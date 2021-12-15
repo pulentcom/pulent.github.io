@@ -13,9 +13,9 @@ fields:
   name: date
   label: date
   config:
-    date_format: YYYY-MM-DD
-    time_format: h:mm
-    export_format: YYYY-MM-DD h:mm:ss
+    date_format: ''
+    time_format: ''
+    export_format: YYYY-MM-DD h:mm
 - type: textarea
   name: summary
   label: summary
