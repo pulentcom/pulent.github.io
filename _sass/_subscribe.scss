@@ -2,7 +2,7 @@
  * Subscribe
  */
 .subscribe {
-  background: $lighter-gray;
+  background: $yellow;
   padding-bottom: 2.5em;
   padding-top: 2.5em;
   text-align: center;
@@ -28,7 +28,7 @@
   .button {
     display: block;
     width: 100%;
-    font-family: $font-family;
+    font-family: $button-font-family;
   }
 }
 
